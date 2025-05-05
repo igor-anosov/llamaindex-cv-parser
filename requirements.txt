@@ -1,0 +1,7 @@
+llama-index
+llama-index-vector-stores-chroma
+openai
+chromadb
+fastapi
+uvicorn
+python-dotenv
